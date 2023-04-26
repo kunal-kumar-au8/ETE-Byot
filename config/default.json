@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kunalk7:0QawPfO8dDyJFmcF@cluster0.vrzjivb.mongodb.net/ETE-Byot?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
